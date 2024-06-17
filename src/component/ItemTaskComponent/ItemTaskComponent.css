@@ -1,0 +1,10 @@
+.checkbox [type='checkbox']:checked ~ label {
+    text-decoration: line-through;
+    color: rgba(80, 69, 69, 0.9);
+  }
+
+.labelTask {
+  font-size: 25px;
+  font-weight: 600;
+}
+
